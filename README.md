@@ -1,4 +1,4 @@
-[logo](https://github.com/shubham155217/shubham155217/blob/main/Black%20White%20Minimalist%20The%20Best%20Success%20Quote%20LinkedIn%20Banner(1).png)
+![logo](https://github.com/shubham155217/shubham155217/blob/main/Black%20White%20Minimalist%20The%20Best%20Success%20Quote%20LinkedIn%20Banner(1).png)
 <h1 align="center">Hi 👋, I'm shubham chaudhari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img  align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0XkpCUvA-Rok4Ug88UDjRK&ust=1687878282602000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLDvioeb4f8CFQAAAAAdAAAAABAG" >

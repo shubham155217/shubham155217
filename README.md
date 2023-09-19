@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm shubham chaudhari</h1>
 <h3 align="center">A passionate Frontend Web Developer from india</h3>
-<img align="right" alt="coding" width="400" src="programmergithub">
+<img align="right" alt="coding" width="400" src="programmergithub.avif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham155217&label=Profile%20views&color=0e75b6&style=flat" alt="shubham155217" /> </p>
 
